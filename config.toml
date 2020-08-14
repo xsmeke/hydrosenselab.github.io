@@ -1,4 +1,4 @@
-baseURL = "www.hydrosenselab.github.io"
+baseURL = "www.hydrosense.netlify.com"
 languageCode = "en-us"
 title = "HydroSense Lab, IIT Delhi"
 themesDir = "./themes"
