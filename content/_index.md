@@ -9,7 +9,7 @@ intro_image_hide_on_mobile: true
 
 ## WEBSITE UNDER CONSTRUCTION
 
-## We seek to model and investigate the terrestrial hydrological cycle. Currently, we are developing techniques and systems for monitoring and forecasting natural hazards such as floods and droughts, with a special focus on the worst-affected regions of the world. The overall goal is to reduce the impact of natural disasters.
+## We seek to model and investigate the terrestrial hydrological cycle. We are interested in developing techniques and systems for monitoring and forecasting natural hazards such as floods and droughts, with a special focus on the worst-affected regions of the world. The overall goal is to reduce the impact of natural disasters.
 
 Read more about our ongoing projects [here](./research)
 
