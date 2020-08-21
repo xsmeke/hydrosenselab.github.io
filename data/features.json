@@ -2,16 +2,16 @@
   {
     "title": "Hydrologic Modeling",
     "description": "Continental to local scales using land surface and routing models",
-    "image": "images/features/noun_branding_1885335.svg"
+    "image": "images/features/earthmodel.svg"
   },
   {
     "title": "Statistics, Machine Learning, and Citizen Science",
     "description": "Data-driven techniques",
-    "image": "images/features/noun_The Process_1885341.svg"
+    "image": "images/features/data.svg"
   },
   {
     "title": "Remote Sensing Applications",
     "description": "Satellite and radar precipitation, inundation mapping etc.",
-    "image": "images/features/noun_3d modeling_1885342.svg"
+    "image": "images/features/satellite.svg"
   }
 ]
