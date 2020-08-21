@@ -6,37 +6,26 @@
     <description>Recent content in Teaching on HydroSense Lab, IIT Delhi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Aug 2020 22:03:47 +0530</lastBuildDate>
     
 	<atom:link href="https://hydrosenselab.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Data-Driven Modeling</title>
-      <link>https://hydrosenselab.github.io/teaching/data-driven-modeling/</link>
-      <pubDate>Sat, 08 Aug 2020 22:03:47 +0530</pubDate>
+      <title>Design of Hydraulic Structures</title>
+      <link>https://hydrosenselab.github.io/teaching/design-of-hydraulic-structures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hydrosenselab.github.io/teaching/data-driven-modeling/</guid>
-      <description></description>
+      <guid>https://hydrosenselab.github.io/teaching/design-of-hydraulic-structures/</guid>
+      <description>To be updated.</description>
     </item>
     
     <item>
-      <title>Flashiness in the United States</title>
-      <link>https://hydrosenselab.github.io/teaching/flashiness-us/</link>
-      <pubDate>Fri, 31 Jul 2020 01:46:54 +0530</pubDate>
+      <title>Engineering Hydrology</title>
+      <link>https://hydrosenselab.github.io/teaching/engineering-hydrology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hydrosenselab.github.io/teaching/flashiness-us/</guid>
-      <description>Mapping flood flood severity in the United States using data-driven techniques.</description>
-    </item>
-    
-    <item>
-      <title>India Flood Inventory</title>
-      <link>https://hydrosenselab.github.io/teaching/india-flood-inventory/</link>
-      <pubDate>Fri, 31 Jul 2020 01:46:54 +0530</pubDate>
-      
-      <guid>https://hydrosenselab.github.io/teaching/india-flood-inventory/</guid>
-      <description>We are building a historical flood observation database over India.
-More later.</description>
+      <guid>https://hydrosenselab.github.io/teaching/engineering-hydrology/</guid>
+      <description>To be updated.</description>
     </item>
     
   </channel>

@@ -28,11 +28,6 @@
   </url>
   
   <url>
-    <loc>https://hydrosenselab.github.io/teaching/data-driven-modeling/</loc>
-    <lastmod>2020-08-08T22:03:47+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hydrosenselab.github.io/</loc>
     <lastmod>2020-08-08T22:03:47+05:30</lastmod>
   </url>
@@ -43,27 +38,12 @@
   </url>
   
   <url>
-    <loc>https://hydrosenselab.github.io/teaching/</loc>
-    <lastmod>2020-08-08T22:03:47+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hydrosenselab.github.io/research/flashiness-us/</loc>
     <lastmod>2020-07-31T01:46:54+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://hydrosenselab.github.io/teaching/flashiness-us/</loc>
-    <lastmod>2020-07-31T01:46:54+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hydrosenselab.github.io/research/india-flood-inventory/</loc>
-    <lastmod>2020-07-31T01:46:54+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hydrosenselab.github.io/teaching/india-flood-inventory/</loc>
     <lastmod>2020-07-31T01:46:54+05:30</lastmod>
   </url>
   
@@ -91,11 +71,23 @@
   </url>
   
   <url>
+    <loc>https://hydrosenselab.github.io/teaching/design-of-hydraulic-structures/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hydrosenselab.github.io/teaching/engineering-hydrology/</loc>
+  </url>
+  
+  <url>
     <loc>https://hydrosenselab.github.io/404/</loc>
   </url>
   
   <url>
     <loc>https://hydrosenselab.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hydrosenselab.github.io/teaching/</loc>
   </url>
   
 </urlset>
