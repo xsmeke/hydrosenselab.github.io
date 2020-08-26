@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Team on HydroSense Lab, IIT Delhi</title>
+    <link>https://hydrosenselab.github.io/team/</link>
+    <description>Recent content in Team on HydroSense Lab, IIT Delhi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Nov 2018 10:47:58 +1000</lastBuildDate>
+    
+	<atom:link href="https://hydrosenselab.github.io/team/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Manabendra Saharia</title>
+      <link>https://hydrosenselab.github.io/team/msaharia/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://hydrosenselab.github.io/team/msaharia/</guid>
+      <description>Joined as an Assistant Professor of Civil Engineering at the Indian Institute of Technology Delhi. Before this I used to work in NASA Goddard and NCAR. I received my PhD in Water Resources Engineering from the University of Oklahoma. Since 2020, I have started setting up the HydroSense Lab in IITD, dedicated primarily to disaster modeling and mitigation. Currently, we are interested in developing techniques and systems for forecasting natural hazards such as floods, droughts, and landslides.</description>
+    </item>
+    
+    <item>
+      <title>Sage Kirk</title>
+      <link>https://hydrosenselab.github.io/team/sage-kirk/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://hydrosenselab.github.io/team/sage-kirk/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.</description>
+    </item>
+    
+  </channel>
+</rss>
