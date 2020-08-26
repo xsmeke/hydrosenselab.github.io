@@ -21,10 +21,31 @@
 </div>
 
 <div class="container pt-6 pb-md-6">
+  <h1> Faculty </h1>
   <div class="row">
-    {{ range .Pages.ByWeight }}
-    <div class="col-12 col-md-6 mb-2 ">{{ .Render "summary" }}</div>
+    {{ range .Pages }}
+    {{ if eq .Weight 1 }}
+    <div class="col-12 col-md-6 mb-2 ">{{ .Render "summary"}}</div>
+    {{ end }}
     {{ end }}
   </div>
+  <h1> Post Doctoral Fellow </h1>
+  <div class="row">
+    {{ range .Pages }}
+    {{ if eq .Weight 2 }}
+    <div class="col-12 col-md-6 mb-2 ">{{ .Render "summary" }}</div>
+    {{ end }}
+    {{ end }}
+  </div>
+  <h1> Undergraduate Students </h1>
+  <div class="row">
+    {{ range .Pages }}
+    {{ if eq .Weight 3 }}
+    <div class="col-12 col-md-6 mb-2 ">{{ .Render "summary" }}</div>
+    {{ end }}
+    {{ end }}
+  </div>
+
+
 </div>
 {{ end }}
