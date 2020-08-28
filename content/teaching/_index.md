@@ -7,7 +7,7 @@ intro_image_hide_on_mobile: true
 # Courses taught
 ## Indian Institute of Technology Delhi
 
-[CVL 282 - Engineering Hydrology](/teaching/engineering-hydrology.html) [2020-21]
+[CVL 282 - Engineering Hydrology](/teaching/engineering-hydrology) [2020-21]
 
 CVL 381 Design of Hydraulic Structures [2019-20]
  
